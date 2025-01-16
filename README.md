@@ -2,7 +2,6 @@
 
 * I have been coding in R, Python and SQL for 7 years
 * I build tools, dashboards, and machine learning models
-* I'm a proud music major turned bootcamp data scientist turned *actual* data scientist
 * I've spent a lot of time working on (Daily) Fantasy Sports. You might have caught my work at [4for4](https://www.4for4.com), [Stokastic](https://www.stokastic.com), or [TheFantasyFootballers](https://www.thefantasyfootballers.com)
 * I'm learning Go and Typescript at boot.dev
 * I'm the founder of [Enigmattic](https://enigmattic.io)

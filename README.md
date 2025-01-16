@@ -10,9 +10,9 @@
 
 Recent Projects Include:
 
-* Predictive Resource Optimization Platform: Developed a scalable predictive analytics tool leveraging machine learning and real-time simulations to optimize decision-making in constrained environments.
-* Automated Reporting System: Created an interactive dashboard framework with real-time data pipelines and custom metrics, reducing reporting time by 70% and enhancing operational insights.
-* Lifetime (Season-long) Value Simulation Platform: Built a dynamic simulation tool for personalized lifetime value projections, integrating custom inputs and innovative metrics like "usable weeks," recognized by industry media.
+* [Predictive Resource Optimization Platform](https://mattsavoca.github.io/projects/resource-optimzier/): Developed a scalable predictive analytics tool leveraging machine learning and real-time simulations to optimize decision-making in constrained environments.
+* [Automated Reporting System[(https://mattsavoca.github.io/projects/single-game-pipeline/): Created an interactive dashboard framework with real-time data pipelines and custom metrics, reducing reporting time by 70% and enhancing operational insights.
+* [Lifetime (Season-long) Value Simulation Platform[(https://mattsavoca.github.io/projects/fantasy-football-simulations/): Built a dynamic simulation tool for personalized lifetime value projections, integrating custom inputs and innovative metrics like "usable weeks," recognized by industry media.
 
 
 

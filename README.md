@@ -1,4 +1,4 @@
-# Hi, I'm (Matt Savoca)[(https://mattsavoca.github.io)
+# Hi, I'm [Matt Savoca](https://mattsavoca.github.io)
 
 ## [View My Data Science Projects](https://mattsavoca.github.io/projects)
 

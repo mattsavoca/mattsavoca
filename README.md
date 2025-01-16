@@ -1,4 +1,6 @@
-# Hi, I'm Matt Savoca
+# Hi, I'm (Matt Savoca)[(https://mattsavoca.github.io)
+
+## [View My Data Science Projects](https://mattsavoca.github.io/projects)
 
 * I have been coding in R, Python and SQL for 7 years
 * I build tools, dashboards, and machine learning models

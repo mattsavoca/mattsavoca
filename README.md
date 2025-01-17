@@ -6,7 +6,7 @@
 * I'm learning Go and Typescript at boot.dev
 * I'm the founder of [Enigmattic](https://enigmattic.vercel.app) custom data solutions
 
-## [View My Data Science Projects](https://mattsavoca.github.io/projects)
+## [My Data Science Portfolio](https://mattsavoca.github.io/projects)
 
 Recent Projects Include:
 

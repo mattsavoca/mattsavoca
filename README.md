@@ -1,10 +1,10 @@
 # Hi, I'm [Matt Savoca](https://mattsavoca.github.io)
 
-* I have been coding in R, Python and SQL for 7 years
-* I build tools, dashboards, and machine learning models
-* I've spent a lot of time working on (Daily) Fantasy Sports. You might have caught my work at [4for4](https://www.4for4.com), [Stokastic](https://www.stokastic.com), or [TheFantasyFootballers](https://www.thefantasyfootballers.com)
+* 🧑‍💻 I have been coding in R, Python and SQL for 7 years
+* 📊 I build tools, dashboards, and machine learning models
+* 📈 I've spent a lot of time working on (Daily) Fantasy Sports. You might have caught my work at [4for4](https://www.4for4.com), [Stokastic](https://www.stokastic.com), or [TheFantasyFootballers](https://www.thefantasyfootballers.com)
 * I'm learning Go and Typescript at boot.dev
-* I'm the founder of [Enigmattic](https://enigmattic.io)
+# * I'm the founder of [Enigmattic](https://enigmattic.io)
 
 ## [View My Data Science Projects](https://mattsavoca.github.io/projects)
 
